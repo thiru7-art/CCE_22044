@@ -18,7 +18,8 @@ class Student {
 
 public class Constructor_Overloading {
     public static void main(String[] args) {
-        Student s1 = new Student("Goutham");
-        Student s2 = new Student("Ketham", 21);
+        Student s1 = new Student("thiru");
+        Student s2 = new Student("thor", 21);
     }
+
 }
